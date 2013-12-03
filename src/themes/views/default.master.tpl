@@ -34,12 +34,12 @@
                     {if CheckPermission('Garden.Settings.Manage')}
                        <li><a href="{link path="dashboard/settings"}">CP</a></li>
                     {/if}
-                    <li><a href="http://pixelcc.byethost32.com/">Home</a></li>
-                    <li><a href="http://pixelcc.byethost32.com/forum/">Forums</a></li>
-                    <li><a href="http://pixelcc.byethost32.com/blog/">Blog</a></li>
-                    <li><a href="http://pixelcc.byethost32.com/wiki/">Wiki</a></li>
-                    <li><a href="http://pixelcc.byethost32.com/staff/">Team</a></li>
-                    <li><a href="http://pixelcc.byethost32.com/support">Support</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="forum/">Forums</a></li>
+                    <li><a href="/blog/">Blog</a></li>
+                    <li><a href="/wiki/">Wiki</a></li>
+                    <li><a href="/staff/">Team</a></li>
+                    <li><a href="/support">Support</a></li>
                     <li><a href="{link path="activity"}">Activity</a></li>
                     {if $User.SignedIn}
                        <li>
