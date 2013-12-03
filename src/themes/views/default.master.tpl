@@ -17,14 +17,14 @@
                 <a href="http://pixelcc.byethost32.com/forum/">
                 <img src="http://i.imgur.com/ZfrsJKu.png">
                 </a></h1>
-<img style="float:left;"
- src="http://www.clipartpal.com/_thumbs/pd/holiday/christmas/Christmas_tree_decorations_large_T.png">
+                     <img style="float:left;"
+                       src="http://www.clipartpal.com/_thumbs/pd/holiday/christmas/Christmas_tree_decorations_large_T.png">
                 </center>
                 
                 <div id="t-right">
-					<p class="intro">The PixelCC Network forums</p>
+			          <p class="intro">The PixelCC Network forums</p>
                   <span style="padding:60px;color:red;font-size:30px;">
- MERRY CHRISTMAS!! </span>
+                                  MERRY CHRISTMAS!! </span>
 				</div>
 
                 
