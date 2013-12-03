@@ -101,7 +101,8 @@ width="50px" height="50px"></a>
 <a title="PixelCC Twitter" href="http://www.twitter.com/pixelcheesecake" target="_blank">
 <img src="http://www.crainscleveland.com/graphics/mediakit/TwitterLogoTransparent.png"
 width="50px" height="50px"></a></p>
-<a href="http://pixelcc.byethost32.com/wiki/dmca/" title="DMCA"> <img src ="http://images.dmca.com/Badges/dmca_protected_16_120.png?ID=804a1fe6-508b-4dbb-be2b-22df0cdf6e34"  alt="DMCA.com" /></a>
+<a href="http://pixelcc.byethost32.com/wiki/dmca/" title="DMCA"> 
+<img src ="http://images.dmca.com/Badges/dmca_protected_16_120.png?ID=804a1fe6-508b-4dbb-be2b-22df0cdf6e34"  alt="DMCA.com" /></a>
 </center>
     {asset name="Foot"}
 		</div>
