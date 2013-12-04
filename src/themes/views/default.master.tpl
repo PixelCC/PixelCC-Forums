@@ -14,7 +14,7 @@
 				<!--Load custom logo from banner options-->
                 <center>
             	<h1 class="Title">
-                <a href="http://pixelcc.byethost32.com/forum/">
+                <a href="/forum/">
                 <img src="http://i.imgur.com/ZfrsJKu.png">
                 </a></h1>
                      <img style="float:left;"
