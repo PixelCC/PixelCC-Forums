@@ -1,6 +1,4 @@
-<center>
 <img src="http://i.imgur.com/ZfrsJKu.png">
-</center>
 ==============
 
 This repository is for source code from our forums, located <a href="http://pixelcc.byethost32.com/forum/">here</a>
